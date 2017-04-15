@@ -1,0 +1,24 @@
+name: CoreAPI
+main: de.mavecrit.coreAPI.Main
+version: 1.9
+description: CoreAPI plugin
+author: MaveCrit
+commands:
+    coreapi:
+        description: Main command
+    hologram:
+        description: Holo command
+    glow:
+        description: glow
+    unnick: 
+        description: names other
+    nameMe:
+        description: names
+    customid:
+        description: ids
+    corelist:
+        description: dont use without nickultimate
+permissions:
+    coreapi.use:
+        description: Allows to use CoreAPI cmd
+        default: true
